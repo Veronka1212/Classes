@@ -1,5 +1,8 @@
 package by.epam.prog_with_class.aggreg_compos.task1;
 
+// Создать объект класса Текст, используя классы Предложение, Слово. Методы: дополнить текст, вывести на 
+//консоль текст, заголовок текста. 
+
 public class Main {
     public static void main(String[] args) {
 
